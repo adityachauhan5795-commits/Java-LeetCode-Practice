@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
