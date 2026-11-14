@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
