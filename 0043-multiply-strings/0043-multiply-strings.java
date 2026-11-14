@@ -1,0 +1,28 @@
+class Solution {
+    public String multiply(String num1, String num2) {
+         if (num1.equals("0") || num2.equals("0")) {
+            return "0";
+        }
+        int m= num1.length();
+        int n = num2.length();
+        int[] arr=new int[m+n];
+
+        for (int i=m-1;i >= 0;i--){
+            for(int j=n-1;j>= 0;j--){
+
+                 int a = num1.charAt(i) - '0';
+                int b = num2.charAt(j)-'0';
+                 int x = a * b + arr[i + j +1];
+                 arr[i + j + 1] = x % 10;
+                arr[i + j] = arr[i + j] + x /10;
+            }
+        }
+        String ans = "";
+        for (int i = 0; i < arr.length; i++) {
+            if (ans.length() > 0 || arr[i] != 0) {
+                ans = ans + arr[i];
+            }
+    }
+            return ans;
+}
+}
