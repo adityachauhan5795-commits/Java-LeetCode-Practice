@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2469-convert-the-temperature) |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0412-fizz-buzz) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
