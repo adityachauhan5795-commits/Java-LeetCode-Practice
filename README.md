@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0041-first-missing-positive) |
 | [1480-running-sum-of-1d-array](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0050-powx-n) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
