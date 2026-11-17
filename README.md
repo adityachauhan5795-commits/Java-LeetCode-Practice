@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/0041-first-missing-positive) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/adityachauhan5795-commits/Java-LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
